@@ -1,0 +1,7 @@
+# Byte-compiled / compiled python files
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente virtual (por exemplo, criados com virtualenv ou venv)
+venv/
+env/
