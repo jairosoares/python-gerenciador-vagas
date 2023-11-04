@@ -141,4 +141,4 @@ def consulta(id_candidato):
 
 # Conecta ao banco de dados
 def conectar():
-    return sqlite3.connect('database/db-trabalho')
+    return sqlite3.connect('candidato.db')
