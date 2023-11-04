@@ -8,6 +8,7 @@ Submissão do perfil de desenvolvedores (Candidato) e avaliação por recrutador
 - `cadastro.py`: Componentes da aba Candidato
 - `gestao.py`: Componentes da aba Gestão
 - `gestaomodal.py`: Componentes modal ao clicar em detalhes do candidato
+- `dao.py`: Componente responsável pela comunicação com o banco de dados SQLite
 
 ## Princípios de Design
 
